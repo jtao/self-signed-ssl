@@ -3,7 +3,7 @@ Louisiana
 Baton Rouge
 Louisiana State University
 Center for Computation and Technology
-[Domain Name]
-[Email Address]
+localhost
+root@localhost.localdomain
 .
 .
